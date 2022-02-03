@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    color: Orange;
+    font-size: 35px;
+}
+p {
+    text-align: center;
+    color: Orange;
+    font-size: 22px;
+}
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+html {
+    background-color: black;
+}
+.Magic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.Spring{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Summer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Autumn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Winter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Final {
+   color : orange;
+}
